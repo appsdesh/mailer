@@ -1,0 +1,2 @@
+# mailer
+Mail sending utility
